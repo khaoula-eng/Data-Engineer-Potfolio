@@ -1,4 +1,4 @@
-# 🏗️ Full stack Data Analyst Portfolio
+# 🏗️ Data Engineer Portfolio
 
 Welcome to my **Full stack Data Analyst Portfolio** repository!  
 
