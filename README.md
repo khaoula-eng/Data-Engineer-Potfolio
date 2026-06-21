@@ -1,6 +1,6 @@
 # 🏗️ Data Engineer Portfolio
 
-Welcome to my **Full stack Data Analyst Portfolio** repository!  
+Welcome to my **Data Engineer Portfolio** repository!  
 
 This repository showcases my practical work in **data engineering, cloud data pipelines, big data processing, ETL workflows, data lakes, and analytics-ready data solutions**.
 
