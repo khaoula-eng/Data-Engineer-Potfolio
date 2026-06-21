@@ -131,4 +131,4 @@ This portfolio reflects my continuous learning and practical application of mode
 ## 📬 Contact
 
 - 🐙 **GitHub:** [khaoula-eng](https://github.com/khaoula-eng)
-- ✉️ **Email:** [kelhafdaoui@gmail.com]
+- ✉️ **Email:** [elhafdaouikhaoula7@gmail.com]
