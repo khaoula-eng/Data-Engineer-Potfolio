@@ -10,7 +10,7 @@ It reflects my ability to design, build, and manage data pipelines that transfor
 
 ## 🚀 Repository Overview
 
-The purpose of this repository is to demonstrate a complete **Full stack Data Analyst workflow**, from data ingestion to data transformation, storage, processing, and visualization.
+The purpose of this repository is to demonstrate a complete **Data Engineer workflow**, from data ingestion to data transformation, storage, processing, and visualization.
 
 The work included in this portfolio covers different areas of data engineering, such as:
 
